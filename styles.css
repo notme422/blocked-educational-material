@@ -1,6 +1,14 @@
 body {
-    background: black;
-    color: white;
-    text-align: center;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background: black;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  display: block;
+}
+
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: cyan;
 }
